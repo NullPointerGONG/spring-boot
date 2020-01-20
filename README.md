@@ -1,6 +1,6 @@
-# biji
+# spring boot and so on 
+*   以spring boot为基础用来集成各种框架并生成相应的demo
+##  sssm
+*   最为基础的spring mvc+spring boot+mybatisplus
 
-用来记录平时的比较等数据
-dev update e
 
-git stas

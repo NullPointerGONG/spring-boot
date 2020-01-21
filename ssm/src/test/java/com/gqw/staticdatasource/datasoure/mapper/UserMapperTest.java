@@ -1,9 +1,8 @@
-package com.example.demo.mapper;
+package com.gqw.demo.mapper;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
-import com.example.demo.entity.UserEntity;
+import com.gqw.demo.entity.UserEntity;
 import lombok.extern.slf4j.Slf4j;
-import org.apache.catalina.User;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

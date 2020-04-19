@@ -1,5 +1,5 @@
 # spring boot and so on 
-*   以spring boot为基础用来集成各种框架并生成相应的demo
+*   以springBoot为基础，用来集成一些框架。
 ##  sssm
 *   最为基础的spring mvc+spring boot+mybatisplus
 

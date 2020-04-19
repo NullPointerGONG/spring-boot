@@ -1,0 +1,10 @@
+server:
+  tomcat:
+    uri-encoding: UTF-8
+    max-connections: 500
+    min-spare-threads: 25
+    max-threads: 300
+    accept-count: 200
+  port: 8080
+  servlet:
+    context-path: /demo
